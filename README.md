@@ -1,5 +1,7 @@
+
+Bivek Sapkota
 Code to solve California Manufacturing Company problem using Genetic Algorithm 
-#code originally written by Summer's Joy
+code originally written by Summer's Joy
 #rcgapy library
 
 
